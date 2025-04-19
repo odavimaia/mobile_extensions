@@ -12,7 +12,7 @@ Each stack has its own subfolder. Currently, the project is active for Android w
 ## 📁 Structure
 
 ```
-kotlin/         # Extensions and components for Android (Kotlin)
+kotlin/app/src/main/java/com/example/kotlin_extensions         # Extensions and components for Android (Kotlin)
 swift/          # Swift extensions (coming soon)
 flutter/        # Flutter widgets and helpers (coming soon)
 react-native/   # React Native components/utils (coming soon)
